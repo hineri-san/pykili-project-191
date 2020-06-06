@@ -1,7 +1,7 @@
 # "Суета вокруг дивана"
 Теперь игра доступна по ссылке!
 https://drive.google.com/file/d/1QXDsoFlImmXsL9njkItomwS3YRfW9Pq3/view?usp=sharing - для Mac OS.
-https://drive.google.com/file/d/1aA2BBU-7uQk8ilIwRxE47z7AfI2PpuT_/view?usp=sharing - для Windows.
+https://drive.google.com/file/d/1UO8vC2WzV6JJv5nJNRsWEMvYBLSCDJYi/view?usp=sharing - для Windows.
 https://drive.google.com/file/d/1aA2BBU-7uQk8ilIwRxE47z7AfI2PpuT_/view?usp=sharing - для Linux.
 Визуальная новелла по мотивам романа Стругацких "Понедельник в субботу", точнее, по его первой главе - "Суета вокруг дивана". В работе задействован движок Ren'Py на основе Python. Он работает как с уже готовыми функциями, так и с тем, что хочет добавить пользователь, в нашем случае - код, написанный на "чистом" Python. 
 
